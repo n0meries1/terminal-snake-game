@@ -1,0 +1,4 @@
+﻿  snakegame.cpp
+C:\Users\65923\source\repos\snakegame\snakegame\snakegame.cpp(122,6): warning C4551: function call missing argument list
+C:\Users\65923\source\repos\snakegame\snakegame\snakegame.cpp(147,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snakegame.vcxproj -> C:\Users\65923\source\repos\snakegame\x64\Debug\snakegame.exe
